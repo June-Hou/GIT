@@ -31,6 +31,7 @@ git remote add origin <http>
 git branch -M master/main
 git push -u origin master/main
 
+git remote add origin <http from HUB>
 git remote -v
 git push origin main/master
 
