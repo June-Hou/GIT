@@ -37,4 +37,6 @@ git push origin main/master
 
 rm -f .git/index.lock
 
-
+git lfs install
+git lfs track "*.psd/mp4"
+git add .gitattributes
